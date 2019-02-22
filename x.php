@@ -1,2 +1,3 @@
 <?php
-dadade
+echo 'King Theme';
+
